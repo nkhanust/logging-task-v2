@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "logging task v2", "logging task v2\logging task v2.csproj", "{A5FFD32D-2517-466A-9119-54D0F158A5A7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A5FFD32D-2517-466A-9119-54D0F158A5A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5FFD32D-2517-466A-9119-54D0F158A5A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5FFD32D-2517-466A-9119-54D0F158A5A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5FFD32D-2517-466A-9119-54D0F158A5A7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FE6EECDF-7024-48C5-9A71-91A53972F30E}
+	EndGlobalSection
+EndGlobal
